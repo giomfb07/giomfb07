@@ -1,11 +1,11 @@
-##  <div align="center"> 👋 Hi! I’m `@giomfb07`, welcome to my `GitHub profile`!.</div>
+##  <div align="center"> 👋 Hi! I’m `@giomfb07`, welcome to my `GitHub profile`!</div>
   <br>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Giovanna';" alt="Typing SVG" />
 </a>
 
 <div>
-  <img align="right" alt="giomfb07" width="210" height="210" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
+  <img align="right" alt="giomfb07" width="210" height="210" src="https://i.pinimg.com/736x/7c/2b/33/7c2b33034ed555b8be4e59af221b1249.jpg">
   
 - 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
 
