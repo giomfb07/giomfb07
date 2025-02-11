@@ -16,24 +16,6 @@
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=85644a&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
-<div align="center">
-<br>
-<a href="https://github.com/giomfb07/spotify-remake" >
-  <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=dbd4cc&title_color=705540&border_color=3b2d29&icon_color=705540&show_icons=true&text_color=705540" alt="Spotify-Remake" />
-  </picture>
-</a>
-
-<p align="center"><br>
-  <a href="https://github.com/giomfb07?tab=repositories">
-    <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=705540&logo=repo" alt="All Repositories" title="All Repositories" />
-    </picture>
-  </a>
-</p>
-</div>
-
 ##  📊 Stats  
 
 <br>
