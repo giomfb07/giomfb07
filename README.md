@@ -7,11 +7,11 @@
  </div>
 
 <div>
- 💻 I work as a full-stack developer, with experience in both `front-end` and `back-end` !
+- 💻 I work as a full-stack developer, with experience in both `front-end` and `back-end` !
 
- 🎓 Currently studying at Cotemig (IT technical school).
+- 🎓 Currently studying at Cotemig (IT technical school).
 
- 🎨  I'm also interested in working in UI/UX design!
+- 🎨  I'm also interested in working in UI/UX design!
 </div>
 
 <br>
