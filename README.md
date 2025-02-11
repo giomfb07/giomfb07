@@ -17,10 +17,10 @@
 <br>
 <div  align="left">
 <a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank" style="margin-right: 20px;">
-    <img src="LINKEDIN.png" alt="LinkedIn Badge" width="40" height="20" />
+    <img src="LINKEDIN.png" alt="LinkedIn Badge" width="80" height="35" />
 </a>
   <a href="mailto:giomfbarbosa@gmail.com" target="_blank" style="margin-right: 20px;">
-     <img src="EMAIL.png" alt="Email Badge" width="40" height="20" />
+     <img src="EMAIL.png" alt="Email Badge" width="80" height="35" />
 </a>
  </div> 
 
