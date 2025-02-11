@@ -21,7 +21,7 @@
 <br>
 <a href="https://github.com/giomfb07/spotify-remake" >
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=806654&title_color=30251f&border_color=30251f&icon_color=30251f&show_icons=true&text_color=black" alt="Spotify-Remake" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=806654&title_color=30251f&border_color=30251f&icon_color=30251f&show_icons=true&text_color=30251f" alt="Spotify-Remake" />
   </picture>
 </a>
 
