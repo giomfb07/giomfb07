@@ -10,15 +10,13 @@
 <div>
    <img align="right" alt="giomfb07" width="230" height="230" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
 
-- 🎮 Passionate about game development, I love creating immersive worlds and interactive experiences.
-
 - 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
 
-- 🎓 Currently studying **Desenvolvimento de Software Multiplataforma** at FATEC.
+- 🎓 Currently studying at Cotemig (IT technical school).
 
-- 🌱  I'm also interested in working in the **data field** and exploring opportunities in data analysis!
+- 🎨  I'm also interested in working in UI/UX design!
 
-- ✨ **Pronouns:** She/Her
+
 </div>
 
 
