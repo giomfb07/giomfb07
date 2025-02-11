@@ -41,42 +41,28 @@
 
 </div>
 
-## 🛠️ Working with: 
-<br>
 
-  <table align="center">
-    <tr>
-        <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/56735c1b-a91d-4f40-8dd7-b9276f44b004" alt="java-coffee-cup-logo"/>
-            <br>HTTP
-        </td>
-        <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/1f7a1509-5ce4-4688-979f-b00ad9a6954c" alt="php-logo"/>
-            <br>CSS
-        </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;"src="https://github.com/user-attachments/assets/ae7f17c5-fc6a-4d8f-a2a2-c60e96b95a4c" alt="csharp-logo"/>
-            <br>C#
-        </td>
-       <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/c0a5f3a6-9e44-4551-aa95-2311c1422167" alt="cplus-logo"/>
-            <br>JavaScript
-        </td>
-         </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
-            <br>SQL
-        </td>
-    </tr>
-</table>
+##  📊 Stats  
+<div align="center">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lariiscriis&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+
+ 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+    <img   width="50%" alt="lariiscriis's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lariiscriis?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## 📲 Connect with me:
 <div  align="center">
 <a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
 </a>
-
-
   <a href="mailto:giomfbarbosa@gmail.com" target="_blank" style="margin-right: 10px;">
      <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge" width="100" height="30" />
 </a>
