@@ -4,7 +4,7 @@
 </a>
  <br>
 <div>
-  <img align="right" alt="giomfb07" width="190" height="190" src="https://i.pinimg.com/736x/7c/2b/33/7c2b33034ed555b8be4e59af221b1249.jpg">
+  <img margin-left="20%" alt="giomfb07" width="190" height="190" src="https://i.pinimg.com/736x/7c/2b/33/7c2b33034ed555b8be4e59af221b1249.jpg">
   
 - 💻 I work as a full-stack developer, with experience in both `front-end` and `back-end` !
 
