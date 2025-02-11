@@ -25,24 +25,11 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
 <div align="center">
-<!-- Link para o repositório projetoDejaVu -->
-<a href="https://github.com/lariiscriis/DejaVu">
-  <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=DejaVu&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="DejaVu" />
-  </picture>
-</a>
 
 <!-- Link para o repositório Laravel_CRUD -->
 <a href="https://github.com/lariiscriis/AnaliseCOVID_googlecolab">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AnaliseCOVID_googlecolab&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Analise - Covid19" />
-  </picture>
-</a>
-
-<!-- Link para o repositório AtividadeListas_JAVA -->
-<a href="https://github.com/lariiscriis/CRUD_StarSign">
-  <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=CRUD_StarSign&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="CRUD_StarSign" />
   </picture>
 </a>
 
