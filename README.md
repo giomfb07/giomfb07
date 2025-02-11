@@ -1,7 +1,4 @@
 ##  <div align="center"> 👋 Hi! I’m `@giomfb07`, welcome to my `GitHub profile`!.</div>
-
-//colocar imagem ![github-header-image (3)](header_github.png)
- 
   <br>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Giovanna';" alt="Typing SVG" />
