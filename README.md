@@ -84,6 +84,3 @@
 
 <br> 
 
-<div  align="center">
-<img width="600"src="https://i.pinimg.com/originals/f6/29/36/f629365f298cad35688f34b4d456945f.gif"/>
-</div>
