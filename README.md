@@ -3,7 +3,7 @@
   <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Giovanna';" alt="Typing SVG" />
 </a>
- <img align="right" alt="giomfb07" width="260" height="190" src="https://i.pinimg.com/736x/7c/2b/33/7c2b33034ed555b8be4e59af221b1249.jpg">
+ <img align="right" alt="giomfb07" width="230" height="230" src="https://i.pinimg.com/736x/7c/2b/33/7c2b33034ed555b8be4e59af221b1249.jpg">
  </div>
  
 <div>
