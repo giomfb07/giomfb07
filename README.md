@@ -28,7 +28,7 @@
 <p align="center"><br>
   <a href="https://github.com/giomfb07?tab=repositories">
     <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=453a32&logo=repo" alt="All Repositories" title="All Repositories" />
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=705540&logo=repo" alt="All Repositories" title="All Repositories" />
     </picture>
   </a>
 </p>
