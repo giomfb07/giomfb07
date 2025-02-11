@@ -5,6 +5,8 @@
 </a>
 
 <div>
+  <img align="right" alt="giomfb07" width="210" height="210" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
+  
 - 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
 
 - 🎓 Currently studying at Cotemig (IT technical school).
