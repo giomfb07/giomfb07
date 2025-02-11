@@ -115,7 +115,7 @@
 
 
   <a href="mailto:giomfbarbosa@gmail.com" target="_blank" style="margin-right: 10px;">
-     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
+     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge" width="100" height="30" />
 </a>
  </div>
 
