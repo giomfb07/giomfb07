@@ -7,7 +7,7 @@
  </div>
 
 <div>
-<p>💻 I work as a full-stack developer, with experience in both front-end and *back-end*!</p>
+<p>💻 I work as a full-stack developer, with experience in both front-end and back-end!</p>
 
 <p>🎓 Currently studying at Cotemig (IT technical school).</p>
 
