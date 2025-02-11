@@ -27,10 +27,10 @@
 
 <br>
 <div align="center">
-<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=dbd4cc&border_color=dbd4cc&card_width=200" alt="readme-typing-svg">
+<img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=dbd4cc&border_color=dbd4cc&card_width=200" alt="readme-typing-svg">
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=dbd4cc&Text=FFA4C7&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
-    <img   width="41%" alt="giomfb07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giomfb07?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=dbd4cc&Title=dbd4cc&Ring=dbd4cc&Border=dbd4cc" />
+    <img   width="45%" alt="giomfb07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giomfb07?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=dbd4cc&Title=dbd4cc&Ring=dbd4cc&Border=dbd4cc" />
   </a>
 </p>
 </div>
