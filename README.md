@@ -27,9 +27,9 @@
 
 <br>
 <div align="center">
-<img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=dbd4cc&border_color=dbd4cc&card_width=200" alt="readme-typing-svg">
+<img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=85644a&border_color=dbd4cc&card_width=200" alt="readme-typing-svg">
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=dbd4cc&Text=FFA4C7&Title=FFA4C7&Ring=FFA4C7&Border=85644a">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=dbd4cc&Text=dbd4cc&Title=FFA4C7&Ring=dbd4cc&Border=dbd4cc">
     <img   width="48%" alt="giomfb07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giomfb07?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=85644a&Title=85644a&Ring=dbd4cc&Border=85644a" />
   </a>
 </p>
