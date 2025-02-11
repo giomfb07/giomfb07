@@ -7,7 +7,7 @@
 <div>
   <img align="right" alt="giomfb07" width="210" height="210" margin-botton="200px" src="https://i.pinimg.com/736x/7c/2b/33/7c2b33034ed555b8be4e59af221b1249.jpg">
   
-- 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
+- 💻 I work as a full-stack developer, with experience in both `front-end` and `back-end` !
 
 - 🎓 Currently studying at Cotemig (IT technical school).
 
