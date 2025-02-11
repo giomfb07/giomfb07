@@ -50,10 +50,10 @@
 <br>
 <div  align="center">
 <a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank" style="margin-right: 10px;">
-    <img src="file:///C:/Users/USURIO~2/AppData/Local/Temp/Rar$DRa6684.18026.rartemp/1.png" alt="LinkedIn Badge" width="100" height="30" />
+    <img src="1.png" alt="LinkedIn Badge" width="100" height="30" />
 </a>
   <a href="mailto:giomfbarbosa@gmail.com" target="_blank" style="margin-right: 10px;">
-     <img src="file:///C:/Users/USURIO~2/AppData/Local/Temp/Rar$DRa6684.18345.rartemp/2.png" alt="Email Badge" width="100" height="30" />
+     <img src="2.png" alt="Email Badge" width="100" height="30" />
 </a>
  </div>
 <br> 
