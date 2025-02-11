@@ -14,7 +14,7 @@
 <p>🎨  I'm also interested in working in UI/UX design!</p>
 </div>
 
-<div  align="left">
+<div  align="left" style="margin-top: 20px;>
 <a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank" style="margin-right: 20px;">
     <img src="LINKEDIN.png" alt="LinkedIn Badge" width="90" height="30" />
 </a>
