@@ -21,7 +21,7 @@
 <br>
 <a href="https://github.com/giomfb07/spotify-remake" >
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=dbd4cc&title_color=241c18&border_color=241c18&icon_color=241c18&show_icons=true&text_color=241c18" alt="Spotify-Remake" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=dbd4cc&title_color=241c18&border_color=59473a&icon_color=241c18&show_icons=true&text_color=241c18" alt="Spotify-Remake" />
   </picture>
 </a>
 
@@ -38,9 +38,9 @@
 
 <br>
 <div align="center">
-<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=59473a&card_width=200" alt="readme-typing-svg">
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=59473a">
     <img   width="41%" alt="giomfb07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giomfb07?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
   </a>
 </p>
