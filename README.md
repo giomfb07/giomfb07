@@ -5,15 +5,11 @@
 </a>
 
 <div>
-   <img align="right" alt="giomfb07" width="210" height="210" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
-
 - 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
 
 - 🎓 Currently studying at Cotemig (IT technical school).
 
 - 🎨  I'm also interested in working in UI/UX design!
-
-
 </div>
 
 
@@ -33,10 +29,7 @@
     </picture>
   </a>
 </p>
-
 </div>
-
-
 
 ##  📊 Stats  
 
@@ -48,7 +41,6 @@
     <img   width="41%" alt="giomfb07's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giomfb07?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
   </a>
 </p>
-
 </div>
 
 ## 📲 Connect with me:
@@ -61,6 +53,5 @@
      <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge" width="100" height="30" />
 </a>
  </div>
-
 <br> 
 
