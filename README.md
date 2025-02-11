@@ -39,6 +39,8 @@
 
 
 ##  📊 Stats  
+
+<br>
 <div align="center">
 <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomfb07&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
 
