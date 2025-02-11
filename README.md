@@ -16,12 +16,12 @@
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=453a32&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=806654&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
 <div align="center">
 <br>
 <a href="https://github.com/giomfb07/spotify-remake" >
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=453a32&title_color=453a32&border_color=453a32&icon_color=453a33&show_icons=true&text_color=black" alt="Spotify-Remake" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giomfb07&repo=spotify-remake&theme=react&bg_color=806654&title_color=453a32&border_color=453a32&icon_color=453a33&show_icons=true&text_color=black" alt="Spotify-Remake" />
   </picture>
 </a>
 
