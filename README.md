@@ -11,7 +11,7 @@
 
 <p>🎓 Currently studying at Cotemig (IT technical school).</p>
 
-<p>🎨  I'm also interested in working in UI/UX design!</p>
+<p>🎨  I'm interested in working in UI/UX design!</p>
 </div>
 
 <div  align="left" style="margin-top: 50px;>
