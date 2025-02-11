@@ -8,7 +8,7 @@
 </a>
 
 <div>
-   <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
+   <img align="right" alt="giomfb07" width="230" height="230" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
 
 - 🎮 Passionate about game development, I love creating immersive worlds and interactive experiences.
 
