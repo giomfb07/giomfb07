@@ -15,6 +15,14 @@
 </div>
 
 <br>
+<div  align="center">
+<a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank" style="margin-right: 20px;">
+    <img src="LINKEDIN.png" alt="LinkedIn Badge" width="100" height="40" />
+</a>
+  <a href="mailto:giomfbarbosa@gmail.com" target="_blank" style="margin-right: 20px;">
+     <img src="EMAIL.png" alt="Email Badge" width="100" height="40" />
+</a>
+ </div> 
 
 ##  📊 Stats  
 
@@ -28,15 +36,8 @@
 </p>
 </div>
 
-## 📲 Connect with me:
-<br>
-<div  align="center">
-<a href="www.linkedin.com/in/giovanna-marques-freire-barbosa-1a2155307" target="_blank" style="margin-right: 20px;">
-    <img src="LINKEDIN.png" alt="LinkedIn Badge" width="100" height="40" />
-</a>
-  <a href="mailto:giomfbarbosa@gmail.com" target="_blank" style="margin-right: 20px;">
-     <img src="EMAIL.png" alt="Email Badge" width="100" height="40" />
-</a>
- </div>
-<br> 
+
+
+
+ 
 
