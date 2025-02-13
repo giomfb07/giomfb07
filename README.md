@@ -23,7 +23,6 @@
 </a>
  </div> 
 
-##  📊 Statistics  
 
 <br>
 <div align="center">
