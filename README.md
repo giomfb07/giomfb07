@@ -1,18 +1,16 @@
 # <div align="left"> 👋 Hi! I’m @giomfb07, welcome to my GitHub profile!</div> 
 <br> 
-<div >
-
+<div>
 
 🎓 **Estudante do Ensino Médio Técnico em Informática – COTEMIG** <br> 
 💻 **Estagiária em Desenvolvimento Web na OpenSpace** <br> 
-🏆 **3º lugar no concurso *The Best of the Class* – COTEMIG** <br> 
+🏆 **3º lugar no *The Best of the Class* – COTEMIG** <br> 
 </div>
-
 
 ## 🚀 Sobre mim
 
 Sou apaixonada por **tecnologia, desenvolvimento web, design de interfaces e automação**.
-Atualmente trabalho com **desenvolvimento web** e venho aprimorando minhas habilidades em **Node.js, TypeScript, Flutter e arquitetura de software**.
+Atualmente trabalho com **desenvolvimento web** e venho aprimorando minhas habilidades em **Node.js, TypeScript, PHP e arquitetura de software**.
 
 Gosto de transformar ideias em soluções reais, criando aplicações funcionais, organizadas e com foco na experiência do usuário. Também já atuei como desenvolvedora web na OpenSpace, adquirindo experiência prática em projetos reais.
 
@@ -20,7 +18,7 @@ Gosto de transformar ideias em soluções reais, criando aplicações funcionais
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contatos
 
 🔗 **LinkedIn:** *https://www.linkedin.com/in/giovanna-marques-freire-barbosa/* <br>
 📧 **E-mail:** *giomfbarbosa@gmail.com* <br>
@@ -43,7 +41,7 @@ MySQL • MongoDB *(estudos)*
 
 ### **Outros conhecimentos**
 
-Integrações de APIs • Estruturação de projetos • CLI Apps • Lógica de Programação • Modularização • Boas práticas (Clean Code)
+Integrações de APIs • Estruturação de projetos • Lógica de Programação • Modularização • Boas práticas (Clean Code)
 
 ---
 
@@ -51,7 +49,7 @@ Integrações de APIs • Estruturação de projetos • CLI Apps • Lógica de
 
 ### 🔹 Desenvolvimento Web
 
-* HTML, CSS, JavaScript
+* HTML, CSS, JavaScript, PHP
 * TypeScript, Node.js
 * APIs REST
 * Boas práticas e Clean Code
@@ -78,6 +76,5 @@ Integrações de APIs • Estruturação de projetos • CLI Apps • Lógica de
 
 ---
 
-`developer` • `typescript` • `nodejs` • `flutter` • `dart` • `web development` • `student developer` • `javascript` • `backend` • `frontend` • `fullstack beginner` • `clean code` • `rest api` • `cli app` • `mobile development` • `widget flutter` • `mvc architecture`
-
+`developer` • `typescript` • `nodejs` • `flutter` • `dart` • `php` • `c#` • `web development` • `student developer` • `javascript` • `backend` • `frontend` • `fullstack beginner` • `clean code` • `rest api` • `cli app` • `widget flutter` 
 
