@@ -2,19 +2,20 @@
 <br> 
 <div>
 
-🎓 **Estudante do Ensino Médio Técnico em Informática – COTEMIG** <br> 
-💻 **Estagiária em Desenvolvimento Web na OpenSpace** <br> 
+🎓 **Estudante de Engenharia de Software - PUCMINAS** <br> 
 🏆 **3º lugar no *The Best of the Class* – COTEMIG** <br> 
 </div>
 
 ## 🚀 Sobre mim
 
 Sou apaixonada por **tecnologia, desenvolvimento web, design de interfaces e automação**.
-Atualmente trabalho com **desenvolvimento web** e venho aprimorando minhas habilidades em **Node.js, TypeScript, PHP e arquitetura de software**.
+Tenho interesse em trabalhar com **desenvolvimento web** e venho aprimorando minhas habilidades em **Node.js, TypeScript, PHP e arquitetura de software**.
 
 Gosto de transformar ideias em soluções reais, criando aplicações funcionais, organizadas e com foco na experiência do usuário. Também já atuei como desenvolvedora web na OpenSpace, adquirindo experiência prática em projetos reais.
 
-💚 Tive a oportunidade de ser voluntária no **Code Club – COTEMIG**, auxiliando crianças no primeiro contato com programação (Scratch, HTML/CSS e lógica).
+💚 Técnica em informática (MOBILE) - COTEMIG Barroca.  <br> 
+💚 Tive a oportunidade de ser voluntária no **Code Club – COTEMIG**, auxiliando crianças no primeiro contato com programação (Scratch, HTML/CSS e lógica).  <br> 
+💚 Estagiária em Desenvolvimento WEB - OPEN SPACE.  <br> 
 
 ---
 
