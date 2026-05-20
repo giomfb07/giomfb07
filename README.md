@@ -15,6 +15,7 @@ Gosto de transformar ideias em soluções reais, criando aplicações funcionais
 
 💚 Técnica em informática (MOBILE) - COTEMIG Barroca.  <br> 
 💚 Tive a oportunidade de ser voluntária no **Code Club – COTEMIG**, auxiliando crianças no primeiro contato com programação (Scratch, HTML/CSS e lógica).  <br> 
+
 ---
 
 ## 🌐 Contatos
